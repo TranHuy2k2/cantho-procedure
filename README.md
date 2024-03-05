@@ -1,16 +1,41 @@
-# cantho_procedure
+# Can Tho Public Services and Procedure App
 
-A new Flutter project.
+[![Github license](https://img.shields.io/github/license/TranHuy2k2/cantho-procedure.svg "Github license")](https://github.com/TranHuy2k2/cantho-procedure/blob/master/LICENSE)
+[![Open issues](https://img.shields.io/github/issues/TranHuy2k2/cantho-procedure.svg "Open issues")](https://github.com/TranHuy2k2/cantho-procedure/issues)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr/TranHuy2k2/cantho-procedure.svg "Open Pull Requests")](https://github.com/TranHuy2k2/cantho-procedure/pulls)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/TranHuy2k2/cantho-procedure.svg "Commit activity")](https://github.com/TranHuy2k2/cantho-procedure/graphs/commit-activity)
+[![GitHub contributors](https://img.shields.io/github/contributors/TranHuy2k2/cantho-procedure.svg "Github contributors")](https://github.com/TranHuy2k2/VN-Law-Advisor/graphs/contributors)
 
-## Getting Started
+An application to consult, support Can Tho Public Procedure and s]Services.
 
-This project is a starting point for a Flutter application.
+# Installation
 
-A few resources to get you started if this is your first Flutter project:
+Make sure you have Flutter and Dart installed on your machine. You can check out the installation guide [here](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Step 1: Clone the project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Open the terminal and run the following command to clone the project.
+
+```bash
+git clone https://github.com/TranHuy2k2/cantho-procedure.git
+```
+
+## Step 2: Change directory into project folder.
+
+```bash
+cd cantho-procedure
+```
+
+## Step 3: Install the dependencies
+
+```bash
+flutter pub get
+```
+
+## Step 4: Run the project on development
+
+Make sure that you have a phone connected or running an emulator. After that, run the project by:
+
+```bash
+flutter run
+```
